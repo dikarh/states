@@ -1,0 +1,44 @@
+{
+	"resultado": {
+		 "data": [ {
+		"active":1,
+		"description": "AGUASCALIENTES",
+		"postalStateKey": "AGS",
+		"curpStateKey": "AGS",
+		"stateMexicoId": 1,
+		"idTaygeta": 1,
+		"region":{
+			"regionId": 1,
+			"description": "SALUD"
+			}
+		},
+		{
+		"active":1,
+		"description": "CIUDAD DE MÉXICO",
+		"postalStateKey": "CDMX",
+		"curpStateKey": "DF",
+		"stateMexicoId": 9,
+		"idTaygeta": 9,
+		"region":{
+			"regionId": 1,
+			"description": "SALUD"
+			}
+		},
+		{
+		"active":1,
+		"description": "NACIONAL",
+		"postalStateKey": "NACIONAL",
+		"curpStateKey": "NACIONAL",
+		"stateMexicoId": 33,
+		"idTaygeta": 33,
+		"region":{
+			"regionId": 1,
+			"description": "SALUD"
+			}
+		}
+
+	],
+
+ 	"codeHttpStatus" : 200
+	}
+}
